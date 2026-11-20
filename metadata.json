@@ -1,0 +1,8 @@
+{
+  "name": "CR Digital Servicing",
+  "description": "Multi-channel social media growth, campaign distribution, and digital servicing platform for YouTube, TikTok, Instagram, Telegram, Facebook, LinkedIn, Pinterest, and Snapchat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
